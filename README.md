@@ -3,6 +3,8 @@
 ## Project Overview 📜
 This project demonstrates web scraping using Python. It involves extracting data from a real website, processing the data, and saving it for further analysis.
 
+![Web Scraping Project](https://github.com/danartech/Web-Scraping-in-Python/blob/main/Web%20Scraping%20Project.png)
+
 ## Project Structure 📁
 - `Web Scraping in Python.ipynb`: The main Python script for scraping data.
 - `README.md`: This file, providing an overview of the project.
@@ -24,7 +26,6 @@ This project demonstrates web scraping using Python. It involves extracting data
 
 ### Data Storage
 - **Format**: CSV files
-- **Location**: Saved in the `data/` folder
 
 ## Access the Files
 You can download the script and data directly from the repository::
